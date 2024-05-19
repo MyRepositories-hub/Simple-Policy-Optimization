@@ -2,13 +2,16 @@
 ![MuJoCo](https://github.com/MyRepositories-hub/Simple-Policy-Optimization/blob/main/draw_return_mujoco.png)
 
 # Training
+
 **The experimental environment is `gymnasium`, and you need to execute the following command to install the dependencies:**
 ## MuJoCo
+
 ### Installation
 ```bash
 pip install gymnasium
 pip install gymnasium[mujoco]
 ```
+
 ### Reminder
 Please change the code from 
 ```python
@@ -33,12 +36,17 @@ while True:
         s_next, r, dw, tr, info = env.step(a)
         done = (dw or tr)
 ```
+
 ## Atari
+
 ### Installation
 ```bash
 pip install gymnasium[atari]
 pip install gymnasium[accept-rom-license]
 ```
+### Reminder
+v4 refers to the `gym` library, a popular reinforcement learning environment, while v5 represents its successor, `gymnasium`, which provides similar functionalities with potential improvements
+
 ### Running
 ```python
 import gymnasium as gym
