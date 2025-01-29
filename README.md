@@ -1,5 +1,6 @@
 # Simple Policy Optimization
 Paper website: https://arxiv.org/abs/2401.16025
+![test](figure/spo.png)
 
 # Installation
 ## Mujoco
