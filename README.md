@@ -1,4 +1,5 @@
 # This is our implementation of PPO and SPO
+Paper website: https://arxiv.org/abs/2401.16025
 
 ## Mujoco
 Create Anaconda environment
@@ -13,7 +14,7 @@ cd mujoco
 pip install -r requirements.txt
 ```
 
-Choose the CUDA version on the official PyTorch website: [https://pytorch.org/](https://pytorch.org/)
+Choose the CUDA version on the official PyTorch website: https://pytorch.org/
 ```bash
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
 ```
