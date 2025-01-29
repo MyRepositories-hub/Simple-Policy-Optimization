@@ -1,6 +1,7 @@
-# This is our implementation of PPO and SPO
+# Simple Policy Optimization
 Paper website: https://arxiv.org/abs/2401.16025
 
+# Installation
 ## Mujoco
 Create Anaconda environment
 ```bash
