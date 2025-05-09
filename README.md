@@ -8,9 +8,11 @@
 
 Accepted to <i style="color: black; display: inline;"><b>International Conference on Machine Learning (ICML 2025)</b></i> | [arXiv](https://arxiv.org/abs/2401.16025)<br>
 
-
-
-
+<div align="center">
+  <img src="ratios.png" width="90%">
+  <img src="gradient.png" width="60%">
+</div>
+By slightly modifying the policy loss used in PPO, SPO can effectively enforce trust region constraints without relying on the expensive second-order optimization in TRPO.
 
 # Installation
 To ensure the reproducibility of our main results, please follow the steps below to install the dependencies.
