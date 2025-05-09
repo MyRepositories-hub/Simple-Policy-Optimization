@@ -6,6 +6,10 @@
   Zhengpeng Xie*, Qiang Zhang*, Fan Yang*, Marco Hutter, Renjing Xu
 </p>
 
+<p align="center">
+  HKUST, ETH Zurich
+</p>
+
 Accepted to <i style="color: black; display: inline;"><b>International Conference on Machine Learning (ICML 2025)</b></i> | [arXiv](https://arxiv.org/abs/2401.16025)<br>
 
 <div align="center">
