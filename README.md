@@ -7,7 +7,12 @@
 </p>
 
 <p align="center">
-  HKUST, ETH Zurich
+  HKUST(GZ), ETH Zurich
+</p>
+
+<p align="center">
+	
+  [zhengpengxie@hkust-gz.edu.cn](mailto:example@example.com), [qzhang749@connect.hkust-gz.edu.cn](mailto:example@example.com), [fanyang1@ethz.ch](mailto:example@example.com), [mahutter@ethz.ch](mailto:example@example.com), [renjingxu@hkust-gz.edu.cn](mailto:example@example.com)
 </p>
 
 Accepted to <i style="color: black; display: inline;"><b>International Conference on Machine Learning (ICML 2025)</b></i> | [arXiv](https://arxiv.org/abs/2401.16025)<br>
