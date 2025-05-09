@@ -21,13 +21,13 @@ Accepted to <i style="color: black; display: inline;"><b>International Conferenc
   <img src="gradient.png" width="70%">
 </div>
 
-**By slightly modifying the policy loss in PPO, SPO enforces trust region constraints without relying on the expensive second-order optimization used in TRPO, leading to stable performance improvements.**
+**Caption:** By slightly modifying the policy loss in PPO, SPO enforces trust region constraints without relying on the expensive second-order optimization used in TRPO, leading to stable performance improvements.
 
 <div align="center">
   <img src="result.png" width="90%">
 </div>
 
-**SPO simplifies the training of deep policy networks, addressing a key challenge faced by existing algorithms.**
+**Caption:** SPO simplifies the training of deep policy networks, addressing a key challenge faced by existing algorithms.
 
 # Installation
 To ensure the reproducibility of our main results, please follow the steps below to install the dependencies.
