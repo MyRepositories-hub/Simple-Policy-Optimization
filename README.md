@@ -13,6 +13,8 @@ Accepted to <i style="color: black; display: inline;"><b>International Conferenc
 
 
 # Installation
+To ensure the reproducibility of our main results, please follow the steps below to install the dependencies.
+
 ## MuJoCo
 Create Anaconda environment:
 ```bash
@@ -72,4 +74,4 @@ python main.py
 ```
 
 # Acknowledgement
-Our code is mainly based on [cleanrl](https://github.com/vwxyzjn/cleanrl), many thanks to their efforts.
+Our code is mainly based on [cleanrl](https://github.com/vwxyzjn/cleanrl), many thanks to their efforts for the community.
