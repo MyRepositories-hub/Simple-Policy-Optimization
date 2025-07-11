@@ -29,6 +29,12 @@ Accepted to <i style="color: black; display: inline;"><b>International Conferenc
 
 **Caption:** SPO simplifies the training of deep policy networks, addressing a key challenge faced by existing algorithms.
 
+<div align="center">
+  <img src="atari.png" width="100%">
+</div>
+
+**Additional experiments:** We evaluate the training performance by using ResNet-18 as the encoder (remove BatchNorm), reporting the mean and standard deviation across 3 seeds on 54 Atari 2600 games. To test robustness, we fix the learning rate at 1e-4 and remove linear decay. Under these settings, PPO fails to learn effectively in a large number of environments, whereas SPO demonstrates strong performance.
+
 # Installation
 To ensure the reproducibility of our main results, please follow the steps below to install the dependencies.
 
