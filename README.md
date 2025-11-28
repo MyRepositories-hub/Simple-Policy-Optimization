@@ -96,5 +96,18 @@ Start training:
 python main.py
 ```
 
+# Citing SPO
+If you find SPO helpful, please cite our paper:
+```bash
+@inproceedings{
+	xie2025simple,
+	title={Simple Policy Optimization},
+	author={Zhengpeng Xie and Qiang Zhang and Fan Yang and Marco Hutter and Renjing Xu},
+	booktitle={Forty-second International Conference on Machine Learning},
+	year={2025},
+	url={https://openreview.net/forum?id=SG8Yx1FyeU}
+}
+```
+
 # Acknowledgement
 Our code is mainly based on [cleanrl](https://github.com/vwxyzjn/cleanrl), many thanks to their efforts for the community.
